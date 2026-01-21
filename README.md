@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 ## 👋 Ntchinda Giscard<br><br>Software Developer with strong interests in **DevOps**, **AI-powered systems**, and **production-grade architectures**.<br><br>I enjoy solving real-world problems using:<br>- ⚙️ **Backend:** Python, FastAPI, Laravel  <br>- 🌐 **Frontend:** React, Next.js  <br>- 📱 **Mobile:** React Native  <br>- 🐳 **DevOps:** Docker, CI/CD pipelines, AWS, Kubernetes (MicroK8s)  <br>- 🤖 **AI / CV:** Computer Vision (YOLOv8, OCR, Video Anomaly Detection)  <br>- 🧠 **Engineering:** Clean architecture, performance optimization, system reliability  <br><br>Currently building systems that combine **AI + scalable backend services** with **modern web and mobile interfaces**.<br><br>> “Build it clean. Deploy it safely. Scale it wisely.”<br>
 
